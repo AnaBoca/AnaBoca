@@ -33,4 +33,4 @@
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
 
-<img align="left" alt="Bootstrap" width="22px" style ="background: red" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />
+<img align="left" alt="Bootstrap" width="22px" src="https://unpkg.com/simple-icons@v4/icons/bootstrap.svg" />
