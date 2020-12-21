@@ -1,4 +1,4 @@
-### Hi there, I'm Ana - aka 👋
+### Hi there, I'm Ana 👋
 
 ## I'm a Developer && Poet!!
 
