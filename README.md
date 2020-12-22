@@ -31,6 +31,6 @@
 
 ---
 
-<img align="left" alt="Ana Boca's Compact Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact$theme=radical" />
+<img align="left" alt="Ana Boca's Compact Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical" />
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
