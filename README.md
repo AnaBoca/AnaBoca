@@ -25,12 +25,14 @@
 | <img align="left" alt="Sass" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />                 | <img align="left" alt="Ruby on Rails" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />  |
 | <img align="left" alt="Webpack" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" />        | <img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" />             |
 
-## <br />
+---
+
+<br />
 
 <img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 
----
+<br />
 
-<img align="left" alt="Ana Boca's Compact Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical" />
+<img align="left" alt="Ana Boca's Compact Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript" />
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
