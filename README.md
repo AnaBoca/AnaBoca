@@ -31,9 +31,8 @@
 
 <img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 
-<br />
-<br />
-
 <img align="left" alt="Ana Boca's Compact Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript" />
+
+<img align="left" alt="Ana Boca's GitHub ReadMe Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=github-readme-stats&theme=radical" />
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
