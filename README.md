@@ -25,9 +25,10 @@
 | <img align="left" alt="Sass" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />                 | <img align="left" alt="Ruby on Rails" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />  |
 | <img align="left" alt="Webpack" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" />        | <img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" />             |
 
----
+##
 
-<img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />  
+<br />
 
 ##
 
