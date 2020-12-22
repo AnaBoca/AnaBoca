@@ -28,8 +28,15 @@
 ##
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript)  
-[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=radical)](https://github.com/AnaBoca/barista-competition-challenge)
+![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript)
+
+Barista Competition Challenge (Dec 2020)  
+[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=radical)](https://github.com/AnaBoca/barista-competition-challenge)  
+Note App (Jan 2020)  
+[![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=radical)](https://github.com/AnaBoca/note-app)  
+Flashback (Jan 2020)  
+[![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=radical)](https://github.com/AnaBoca/flashback)  
+cattycrap (Jan 2020)  
 [![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=radical)](https://github.com/AnaBoca/cattycrap)
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
