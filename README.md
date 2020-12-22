@@ -14,10 +14,10 @@
 
 ### Languages and Tools:
 
-| Front-End                                                                                                                      | Back-End                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| <img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />       | <img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" /> |
-| <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />              |
+| Front-End                                                                                                                      | Back-End                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| <img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />       | <img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />  |
+| <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />              | <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" /> |
 | <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />            |
 | <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-24-1174950.png" /> |
 | <img align="left" alt="jQuery" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />         |
@@ -29,7 +29,6 @@
 
 #### Back-End
 
-<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" />
