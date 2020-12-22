@@ -14,16 +14,16 @@
 
 ### Languages and Tools:
 
-| Front-End                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| <img style="margin: 0 auto" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" /> |
-| <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />                  |
-| <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />                |
-| <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-24-1174950.png" />     |
-| <img align="left" alt="jQuery" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />             |
-| <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" />                |
-| <img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />                     |
-| <img align="left" alt="Webpack" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" />            |
+| Front-End                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <img align="right" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />      |
+| <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />              |
+| <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />            |
+| <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-24-1174950.png" /> |
+| <img align="left" alt="jQuery" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />         |
+| <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" />            |
+| <img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />                 |
+| <img align="left" alt="Webpack" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" />        |
 
 <br />
 
