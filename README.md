@@ -27,15 +27,8 @@
 
 ##
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-<div>
-  <img align="left" alt="Ana Boca's Compact Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript" />
-</div>
-<div>
-  <img align="left" alt="Ana Boca's GitHub ReadMe Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=radical" />
-</div>
+![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript)
+![Ana Boca's Catty Crap Repo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
