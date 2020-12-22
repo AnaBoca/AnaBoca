@@ -16,7 +16,7 @@
 
 | Front-End                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />       |
+| <img align="center" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />     |
 | <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />              |
 | <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />            |
 | <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-24-1174950.png" /> |
