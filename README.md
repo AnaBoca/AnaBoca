@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anaboca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="anaboca | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
 
 <br />
 
@@ -25,7 +25,9 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />
 <img align="left" alt="Webpack" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" />
 
-/#### Back-End
+<br />
+
+#### Back-End
 
 <img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" />
@@ -36,7 +38,9 @@
 <img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" />
 
-/#### Misc.
+<br />
+
+#### Misc.
 
 <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-2506802-2100702.png" />
