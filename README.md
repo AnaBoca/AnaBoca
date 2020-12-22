@@ -27,6 +27,6 @@
 
 ## <br />
 
-<img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&hide_border=true" />
+<img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&hide_border=true&theme=radical" />
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
