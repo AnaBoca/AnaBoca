@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anaboca | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
+[<img align="left" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
 
 <br />
 
@@ -16,7 +16,7 @@
 
 | Front-End                                                                                                                      | Back-End                                                                                                                     | Misc.                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />       | <img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />            | <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />                                        |
+| <img align="left" alt="Bootstrap" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />       | <img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />            | <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />                                        |
 | <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />              | <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" />           | <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-2506802-2100702.png" />                         |
 | <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />            | <img align="left" alt="MySQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />         | <img align="left" alt="OOP" width="26px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />                                            |
 | <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-24-1174950.png" /> | <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" />             | <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png" /> |
