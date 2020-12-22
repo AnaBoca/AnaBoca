@@ -16,7 +16,7 @@
 
 #### Front-End
 
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-24-1174950.png" />
@@ -25,14 +25,21 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />
 <img align="left" alt="Webpack" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+#### Back-End
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" />
+<img align="left" alt="Ruby" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-46-1175101.png" />
+<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+#### Misc.
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-2506802-2100702.png" />
+<img align="left" alt="OOP" width="26px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
