@@ -29,6 +29,6 @@
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript)  
-![Ana Boca's Catty Crap Repo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=radical)(https://github.com/AnaBoca/cattycrap)
+[![Ana Boca's Catty Crap Repo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=radical)](https://github.com/AnaBoca/cattycrap])
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
