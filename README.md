@@ -29,9 +29,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-<div>
-  <img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />  
-</div>
+![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 <div>
   <img align="left" alt="Ana Boca's Compact Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript" />
 </div>
