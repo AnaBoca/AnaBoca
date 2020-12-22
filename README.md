@@ -27,6 +27,8 @@
 
 ##
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 <div>
   <img align="left" alt="Ana Boca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />  
 </div>
