@@ -10,8 +10,6 @@
 
 [<img align="left" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
 
-<br />
-
 ### Languages and Tools:
 
 #### Front-End
