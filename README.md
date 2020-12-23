@@ -12,8 +12,6 @@
 
 ### Languages and Tools:
 
-<br />
-
 #### Front-End
 
 <img align="left" alt="Bootstrap" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />
