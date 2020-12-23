@@ -29,19 +29,19 @@
 
 ## My GitHub Stats
 
-![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript)
+![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
 
 ## My Repos
 
-[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=radical)](https://github.com/AnaBoca/barista-competition-challenge)
-[![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=radical)](https://github.com/AnaBoca/note-app)
-[![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=radical)](https://github.com/AnaBoca/flashback)
-[![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=radical)](https://github.com/AnaBoca/cattycrap)
-[![todo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=todo&theme=radical)](https://github.com/AnaBoca/todo)
-[![grammable](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=grammable&theme=radical)](https://github.com/AnaBoca/grammable)
-[![flixter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flixter&theme=radical)](https://github.com/AnaBoca/flixter)
-[![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=nomster&theme=radical)](https://github.com/AnaBoca/nomster)
-[![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=radical)](https://github.com/AnaBoca/splurty)
+[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=yeblu)](https://github.com/AnaBoca/barista-competition-challenge)
+[![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=yeblu)](https://github.com/AnaBoca/note-app)
+[![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=yeblu)](https://github.com/AnaBoca/flashback)
+[![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=yeblu)](https://github.com/AnaBoca/cattycrap)
+[![todo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=todo&theme=yeblu)](https://github.com/AnaBoca/todo)
+[![grammable](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=grammable&theme=yeblu)](https://github.com/AnaBoca/grammable)
+[![flixter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flixter&theme=yeblu)](https://github.com/AnaBoca/flixter)
+[![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=nomster&theme=yeblu)](https://github.com/AnaBoca/nomster)
+[![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=yeblu)](https://github.com/AnaBoca/splurty)
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
