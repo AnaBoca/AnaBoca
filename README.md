@@ -2,7 +2,7 @@
 
 ### DEVELOPER && POET
 
-- 🌱 I’m currently learning everything
+- 🌱 I have my MFA in Creative Writing with an emphasis in poetry
 - 🥅 2021 Goals: Competently use Angular, React, and Vue
 - ⚡ Fun fact: I have a compulsion to organize (even things that are already organized)
 
