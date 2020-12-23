@@ -43,12 +43,12 @@
 
 ---
 
-## GitHub Stats
+## My Stats
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
 
-## Repos
+## My Repos
 
 [![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=yeblu)](https://github.com/AnaBoca/barista-competition-challenge)
 [![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=yeblu)](https://github.com/AnaBoca/note-app)
