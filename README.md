@@ -41,4 +41,5 @@
 [![flixter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flixter&theme=radical)](https://github.com/AnaBoca/flixter)
 [![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=nomster&theme=radical)](https://github.com/AnaBoca/nomster)
 [![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=radical)](https://github.com/AnaBoca/splurty)
+
 [linkedin]: https://www.linkedin.com/in/anaboca/
