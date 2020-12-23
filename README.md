@@ -23,7 +23,7 @@
 <img align="left" alt="Sass" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />
 <img align="left" alt="Webpack" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" /><br />
 
-#### Back-End
+#### _Back-End_
 
 <img align="left" alt="C#" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />
 <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" />
@@ -34,7 +34,7 @@
 <img align="left" alt="Ruby on Rails" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" /><br />
 
-#### Misc.
+#### _Misc._
 
 <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-2506802-2100702.png" />
