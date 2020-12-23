@@ -32,7 +32,7 @@
 
 ##
 
-[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=radical)](https://github.com/AnaBoca/barista-competition-challenge)  
+[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=radical)](https://github.com/AnaBoca/barista-competition-challenge)
 [![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=radical)](https://github.com/AnaBoca/note-app)
 [![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=radical)](https://github.com/AnaBoca/flashback)
 [![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=radical)](https://github.com/AnaBoca/cattycrap)
