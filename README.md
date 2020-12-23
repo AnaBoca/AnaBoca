@@ -27,7 +27,7 @@
 
 ---
 
-![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=radical&hide=ruby,coffeescript)
 
 ##
