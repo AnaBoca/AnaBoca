@@ -12,7 +12,7 @@
 
 ### Languages and Tools
 
-#### Front-End
+#### _Front-End_
 
 <img align="left" alt="Bootstrap" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" />
