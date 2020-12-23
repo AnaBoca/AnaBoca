@@ -34,16 +34,14 @@
 <img align="left" alt="PostgreSQL" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" />
 <img align="left" alt="Ruby" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-46-1175101.png" />
 <img align="left" alt="Ruby on Rails" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" />  
-<br />
+<img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" />
 
 #### Misc.
 
 <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-2506802-2100702.png" />
 <img align="left" alt="OOP" width="26px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png" />  
-<br />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png" />
 
 ---
 
