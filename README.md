@@ -1,12 +1,12 @@
 ### Hi there, I'm Ana 👋
 
-## I'm a Developer && Poet!!
+## A Developer && Poet!
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Competently use Angular, React, and Vue
 - ⚡ Fun fact: I have a compulsion to organize (even things that are already organized)
 
-### Connect with me:
+### Connect:
 
 [<img align="left" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
 
@@ -27,12 +27,12 @@
 
 ---
 
-## My GitHub Stats
+## GitHub Stats
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
 
-## My Repos
+## Repos
 
 [![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=yeblu)](https://github.com/AnaBoca/barista-competition-challenge)
 [![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=yeblu)](https://github.com/AnaBoca/note-app)
