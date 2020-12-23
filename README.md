@@ -1,12 +1,12 @@
 # Hi there, I'm Ana 👋
 
-## A Developer && Poet!
+### A Developer && Poet!
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Competently use Angular, React, and Vue
 - ⚡ Fun fact: I have a compulsion to organize (even things that are already organized)
 
-## Connect
+### Connect
 
 [<img align="left" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]<br />
 
