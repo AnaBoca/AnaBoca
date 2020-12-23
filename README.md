@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Competently use Angular, React, and Vue
 - ⚡ Fun fact: I have a compulsion to organize (even things that are already organized)
 
-_Connect with me on LinkedIn_ [<img style="vertical-align:middle" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
+_Connect with me on LinkedIn_ [<img style="vlign:middle" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
 
 ## Languages and Tools
 
