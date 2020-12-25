@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: I want to competently use Angular, React, and Vue. I am currently learning TypeScript so that I can learn Angular.
 - ⚡ Fun Fact: I have a compulsion to organize spaces over and over again. I've revamped my linen closet system over four times so far.
 
-### CONNECT ON LINKEDIN
+### CONNECT WITH ME
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
 
