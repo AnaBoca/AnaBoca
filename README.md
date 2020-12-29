@@ -61,6 +61,6 @@
 [![splurty](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=yeblu)](https://github.com/AnaBoca/splurty)
 [![scc-final-cactuscatsitter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-final-cactuscatsitter&theme=yeblu)](https://github.com/AnaBoca/scc-final-cactuscatsitter)
 [![scc-group-bandsite](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-group-bandsite&theme=yeblu)](https://github.com/AnaBoca/scc-group-bandsite)
-[![scc-midterm-css-grid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-css-grid&theme=yeblu)](https://github.com/AnaBoca/scc-midterm-cssgrid)
+[![scc-midterm-cssgrid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-cssgrid&theme=yeblu)](https://github.com/AnaBoca/scc-midterm-cssgrid)
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
