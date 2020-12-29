@@ -58,6 +58,9 @@
 [![grammable](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=grammable&theme=yeblu)](https://github.com/AnaBoca/grammable)
 [![flixter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flixter&theme=yeblu)](https://github.com/AnaBoca/flixter)
 [![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=nomster&theme=yeblu)](https://github.com/AnaBoca/nomster)
-[![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=yeblu)](https://github.com/AnaBoca/splurty)
+[![splurty](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=yeblu)](https://github.com/AnaBoca/splurty)
+[![scc-final-cactuscatsitter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-final-cactuscatsitter&theme=yeblu)](https://github.com/AnaBoca/scc-final-cactuscatsitter)
+[![scc-group-bandsite](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-group-bandsite&theme=yeblu)](https://github.com/AnaBoca/scc-group-bandsite)
+[![scc-midterm-css-grid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-css-grid&theme=yeblu)](https://github.com/AnaBoca/scc-midterm-cssgrid)
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
