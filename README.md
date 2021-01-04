@@ -54,6 +54,8 @@
 [![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=yeblu)](https://github.com/AnaBoca/note-app)
 [![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=yeblu)](https://github.com/AnaBoca/flashback)
 [![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=yeblu)](https://github.com/AnaBoca/cattycrap)
+[![mello-rails-api](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=mello-rails-api&theme=yeblu)](https://github.com/AnaBoca/mello-rails-api)
+[![mello-frontend](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=mello-frontend&theme=yeblu)](https://github.com/AnaBoca/mello-frontend)
 [![todo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=todo&theme=yeblu)](https://github.com/AnaBoca/todo)
 [![grammable](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=grammable&theme=yeblu)](https://github.com/AnaBoca/grammable)
 [![flixter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flixter&theme=yeblu)](https://github.com/AnaBoca/flixter)
