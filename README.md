@@ -50,19 +50,19 @@
 
 ### MY REPOS
 
-[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=yeblu)](https://github.com/AnaBoca/barista-competition-challenge)
-[![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=yeblu)](https://github.com/AnaBoca/note-app)
-[![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=yeblu)](https://github.com/AnaBoca/flashback)
-[![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=yeblu)](https://github.com/AnaBoca/cattycrap)
-[![mello-rails-api](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=mello-rails-api&theme=yeblu)](https://github.com/AnaBoca/mello-rails-api)
-[![mello-frontend](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=mello-frontend&theme=yeblu)](https://github.com/AnaBoca/mello-frontend)
-[![todo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=todo&theme=yeblu)](https://github.com/AnaBoca/todo)
-[![grammable](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=grammable&theme=yeblu)](https://github.com/AnaBoca/grammable)
-[![flixter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flixter&theme=yeblu)](https://github.com/AnaBoca/flixter)
-[![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=nomster&theme=yeblu)](https://github.com/AnaBoca/nomster)
-[![splurty](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=yeblu)](https://github.com/AnaBoca/splurty)
-[![scc-final-cactuscatsitter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-final-cactuscatsitter&theme=dark)](https://github.com/AnaBoca/scc-final-cactuscatsitter)
-[![scc-group-bandsite](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-group-bandsite&theme=dark)](https://github.com/AnaBoca/scc-group-bandsite)
-[![scc-midterm-cssgrid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-cssgrid&theme=dark)](https://github.com/AnaBoca/scc-midterm-cssgrid)
+[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=maroongold)](https://github.com/AnaBoca/barista-competition-challenge)
+[![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=great-gatsby)](https://github.com/AnaBoca/note-app)
+[![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=great-gatsby)](https://github.com/AnaBoca/flashback)
+[![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=great-gatsby)](https://github.com/AnaBoca/cattycrap)
+[![mello-rails-api](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=mello-rails-api&theme=great-gatsby)](https://github.com/AnaBoca/mello-rails-api)
+[![mello-frontend](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=mello-frontend&theme=great-gatsby)](https://github.com/AnaBoca/mello-frontend)
+[![todo](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=todo&theme=great-gatsby)](https://github.com/AnaBoca/todo)
+[![grammable](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=grammable&theme=great-gatsby)](https://github.com/AnaBoca/grammable)
+[![flixter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flixter&theme=great-gatsby)](https://github.com/AnaBoca/flixter)
+[![nomster](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=nomster&theme=great-gatsby)](https://github.com/AnaBoca/nomster)
+[![splurty](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=splurty&theme=great-gatsby)](https://github.com/AnaBoca/splurty)
+[![scc-final-cactuscatsitter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-final-cactuscatsitter&theme=shades-of-purple)](https://github.com/AnaBoca/scc-final-cactuscatsitter)
+[![scc-group-bandsite](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-group-bandsite&theme=shades-of-purple)](https://github.com/AnaBoca/scc-group-bandsite)
+[![scc-midterm-cssgrid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-cssgrid&theme=shades-of-purple)](https://github.com/AnaBoca/scc-midterm-cssgrid)
 
 [linkedin]: https://www.linkedin.com/in/anaboca/
