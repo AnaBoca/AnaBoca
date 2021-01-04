@@ -50,7 +50,7 @@
 
 ### MY REPOS
 
-[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=maroongold)](https://github.com/AnaBoca/barista-competition-challenge)
+[![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=yeblu](https://github.com/AnaBoca/barista-competition-challenge)
 [![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=great-gatsby)](https://github.com/AnaBoca/note-app)
 [![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=great-gatsby)](https://github.com/AnaBoca/flashback)
 [![cattycrap](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=cattycrap&theme=great-gatsby)](https://github.com/AnaBoca/cattycrap)
