@@ -4,7 +4,7 @@
 
 - 🌱 I have a Masters of Fine Arts in Creative Writing with an emphasis in poetry.
 - 🥅 2021 Goals: I want to competently use Angular, React, and Vue. I am currently learning TypeScript so that I can learn Angular.
-- ⚡ Fun Fact: People don't like me.
+- ⚡ Fun Fact: I'm irritated.
 
 ### CONNECT WITH ME
 
