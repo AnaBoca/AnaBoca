@@ -21,6 +21,7 @@
 <img align="left" alt="jQuery" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
 <img align="left" alt="React" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" />
 <img align="left" alt="Sass" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
 <img align="left" alt="Webpack" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/webpack-3-1174982.png" /><br />
 
 #### _Back-End_
