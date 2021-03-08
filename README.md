@@ -3,7 +3,7 @@
 ### DEVELOPER && POET
 
 - 🌱 I have a Masters of Fine Arts in Creative Writing with an emphasis in poetry.
-- 🥅 2021 Goals: I want to competently use Angular, React, and Vue. I am currently learning TypeScript so that I can learn Angular.
+- 🥅 2021 Goals: I want to competently use Angular, React, and Vue. I already know how to use React somewhat competently and am currently learning Angular.
 - ⚡ Fun Fact: I'll get the job eventually.
 
 ### CONNECT WITH ME
