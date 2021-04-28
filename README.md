@@ -45,7 +45,7 @@
 
 ### A LITTLE MORE ABOUT ME
 
-My name is Ana Boca and I am in Phoenix, AZ. I am a green developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
+My name is Ana Boca and I am in Phoenix, Arizona. I am a green developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
 
 I decided to make a career change a couple of years ago and bridge the parallels between my writing skill set in a more technical manner. I think that coding is very similar to writing a poem - both are very much concerned with an economy of language. I had a lot of help with my career transition from my husband who is an Angular expert and fanboy and currently works for Amazon.
 
