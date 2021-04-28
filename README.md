@@ -34,7 +34,7 @@
 <img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-48/postgresql-5-569524.png" />
 <img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-48/ruby-46-1175101.png" />
 <img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-48/rails-2-1175112.png" />
-<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-29-1127899.png" /><br /><br />
+<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-file-2917473-2420443.png" /><br /><br />
 
 #### _Misc._
 
