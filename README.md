@@ -29,7 +29,7 @@
 
 <img align="left" alt="C#" src="https://cdn.iconscout.com/icon/free/png-48/csharp-1-1175241.png" />
 <img align="left" alt="Java" src="https://cdn.iconscout.com/icon/free/png-48/java-58-1174951.png" />
-<img align="left" alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-48/mysql-19-1174939.png" />
+<img align="left" alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-48/mysql-21-1174941.png" />
 <img align="left" alt="PHP" src="https://cdn.iconscout.com/icon/free/png-48/php-99-1175127.png" />
 <img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-48/postgresql-5-569524.png" />
 <img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-48/ruby-46-1175101.png" />
