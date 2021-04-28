@@ -51,7 +51,7 @@
 
 ### MY REPOS
 
-[![ng-girls-todo-list-tutorial-practice](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=ng-girls-todo-list-tutorial-practice&theme=yeblu)](https://github.com/AnaBoca/ng-girls-todo-list-tutorial-practice)
+[![ng-girls-todo-list-tutorial-practice](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=ng-girls-todo-list-tutorial-practice&theme=blueberry)](https://github.com/AnaBoca/ng-girls-todo-list-tutorial-practice)
 [![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=yeblu)](https://github.com/AnaBoca/barista-competition-challenge)
 [![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=blueberry)](https://github.com/AnaBoca/note-app)
 [![flashback](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=flashback&theme=blueberry)](https://github.com/AnaBoca/flashback)
