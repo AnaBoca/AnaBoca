@@ -19,7 +19,7 @@
 <img align="left" alt="CSS3" src="https://cdn.iconscout.com/icon/free/png-48/css3-9-1175237.png" />
 <img align="left" alt="HTML5" src="https://cdn.iconscout.com/icon/free/png-48/html5-10-569380.png" />
 <img align="left" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-48/javascript-24-1174950.png" />
-<img align="left" alt="jQuery" src="https://cdn.iconscout.com/icon/free/png-48/jquery-10-1175155.png" />
+<img align="left" alt="jQuery" src="https://cdn.iconscout.com/icon/free/png-48/jquery-7-1175152.png" />
 <img align="left" alt="React" src="https://cdn.iconscout.com/icon/free/png-48/react-4-1175110.png" />
 <img align="left" alt="Sass" src="https://cdn.iconscout.com/icon/free/png-48/sass-226054.png" />
 <img align="left" alt="TypeScript" src="https://cdn.iconscout.com/icon/free/png-48/typescript-1174965.png" />
@@ -34,7 +34,7 @@
 <img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-48/postgresql-5-569524.png" />
 <img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-48/ruby-46-1175101.png" />
 <img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-48/rails-2-1175112.png" />
-<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-29-1127899.png" /><br />
+<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-file-2951576-2446756.png" /><br />
 
 #### _Misc._
 
