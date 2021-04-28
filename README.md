@@ -23,7 +23,7 @@
 <img align="left" alt="React" src="https://cdn.iconscout.com/icon/free/png-48/react-4-1175110.png" />
 <img align="left" alt="Sass" src="https://cdn.iconscout.com/icon/free/png-48/sass-226054.png" />
 <img align="left" alt="TypeScript" src="https://cdn.iconscout.com/icon/free/png-48/typescript-1174965.png" />
-<img align="left" alt="Webpack" src="https://cdn.iconscout.com/icon/free/png-48/webpack-3-1174982.png" /><br />
+<img align="left" alt="Webpack" src="https://cdn.iconscout.com/icon/free/png-48/webpack-3-1174982.png" /><br /><br />
 
 #### _Back-End_
 
@@ -34,14 +34,14 @@
 <img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-48/postgresql-5-569524.png" />
 <img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-48/ruby-46-1175101.png" />
 <img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-48/rails-2-1175112.png" />
-<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-29-1127899.png" /><br />
+<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-29-1127899.png" /><br /><br />
 
 #### _Misc._
 
 <img align="left" alt="Git" src="https://cdn.iconscout.com/icon/free/png-48/git-225996.png" />
 <img align="left" alt="GitHub" src="https://cdn.iconscout.com/icon/free/png-48/github-2506802-2100702.png" />
 <img align="left" alt="OOP" width="48px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
-<img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br />
+<img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br /><br />
 
 ---
 
