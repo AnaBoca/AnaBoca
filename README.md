@@ -8,40 +8,40 @@
 
 ### CONNECT WITH ME
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-32/linkedin-42-151143.png" />][linkedin]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-48/linkedin-42-151143.png" />][linkedin]
 
 ### TECHNOLOGIES
 
 #### _Front-End_
 
-<img align="left" alt="Angular" src="https://cdn.iconscout.com/icon/free/png-32/angular-2038881-1720094.png" />
-<img align="left" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-32/bootstrap-226077.png" />
-<img align="left" alt="CSS3" src="https://cdn.iconscout.com/icon/free/png-32/css3-9-1175237.png" />
-<img align="left" alt="HTML5" src="https://cdn.iconscout.com/icon/free/png-32/html5-10-569380.png" />
-<img align="left" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-32/javascript-24-1174950.png" />
-<img align="left" alt="jQuery" src="https://cdn.iconscout.com/icon/free/png-32/jquery-10-1175155.png" />
-<img align="left" alt="React" src="https://cdn.iconscout.com/icon/free/png-32/react-4-1175110.png" />
-<img align="left" alt="Sass" src="https://cdn.iconscout.com/icon/free/png-32/sass-226054.png" />
-<img align="left" alt="TypeScript" src="https://cdn.iconscout.com/icon/free/png-32/typescript-1174965.png" />
-<img align="left" alt="Webpack" src="https://cdn.iconscout.com/icon/free/png-32/webpack-3-1174982.png" /><br />
+<img align="left" alt="Angular" src="https://cdn.iconscout.com/icon/free/png-48/angular-2038881-1720094.png" />
+<img align="left" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-48/bootstrap-226077.png" />
+<img align="left" alt="CSS3" src="https://cdn.iconscout.com/icon/free/png-48/css3-9-1175237.png" />
+<img align="left" alt="HTML5" src="https://cdn.iconscout.com/icon/free/png-48/html5-10-569380.png" />
+<img align="left" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-48/javascript-24-1174950.png" />
+<img align="left" alt="jQuery" src="https://cdn.iconscout.com/icon/free/png-48/jquery-10-1175155.png" />
+<img align="left" alt="React" src="https://cdn.iconscout.com/icon/free/png-48/react-4-1175110.png" />
+<img align="left" alt="Sass" src="https://cdn.iconscout.com/icon/free/png-48/sass-226054.png" />
+<img align="left" alt="TypeScript" src="https://cdn.iconscout.com/icon/free/png-48/typescript-1174965.png" />
+<img align="left" alt="Webpack" src="https://cdn.iconscout.com/icon/free/png-48/webpack-3-1174982.png" /><br />
 
 #### _Back-End_
 
-<img align="left" alt="C#" src="https://cdn.iconscout.com/icon/free/png-32/csharp-1-1175241.png" />
-<img align="left" alt="Java" src="https://cdn.iconscout.com/icon/free/png-32/java-58-1174951.png" />
+<img align="left" alt="C#" src="https://cdn.iconscout.com/icon/free/png-48/csharp-1-1175241.png" />
+<img align="left" alt="Java" src="https://cdn.iconscout.com/icon/free/png-48/java-58-1174951.png" />
 <img align="left" alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-48/mysql-19-1174939.png" />
-<img align="left" alt="PHP" src="https://cdn.iconscout.com/icon/free/png-32/php-99-1175127.png" />
-<img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-32/postgresql-5-569524.png" />
-<img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-32/ruby-46-1175101.png" />
-<img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-32/rails-2-1175112.png" />
+<img align="left" alt="PHP" src="https://cdn.iconscout.com/icon/free/png-48/php-99-1175127.png" />
+<img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-48/postgresql-5-569524.png" />
+<img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-48/ruby-46-1175101.png" />
+<img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-48/rails-2-1175112.png" />
 <img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-29-1127899.png" /><br />
 
 #### _Misc._
 
-<img align="left" alt="Git" src="https://cdn.iconscout.com/icon/free/png-32/git-225996.png" />
-<img align="left" alt="GitHub" src="https://cdn.iconscout.com/icon/free/png-32/github-2506802-2100702.png" />
-<img align="left" alt="OOP" width="45px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
-<img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-32/visual-studio-code-1868941-1583105.png" /><br />
+<img align="left" alt="Git" src="https://cdn.iconscout.com/icon/free/png-48/git-225996.png" />
+<img align="left" alt="GitHub" src="https://cdn.iconscout.com/icon/free/png-48/github-2506802-2100702.png" />
+<img align="left" alt="OOP" width="48px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
+<img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br />
 
 ---
 
