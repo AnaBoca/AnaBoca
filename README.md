@@ -8,32 +8,32 @@
 
 ### CONNECT WITH ME
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
 
 ### TECHNOLOGIES
 
 #### _Front-End_
 
-<img align="left" alt="Angular" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/angular-2038881-1720094.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/bootstrap-226077.png" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/css3-9-1175237.png" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/html5-10-569380.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/javascript-24-1174950.png" />
-<img align="left" alt="jQuery" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/jquery-10-1175155.png" />
-<img align="left" alt="React" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/react-4-1175110.png" />
-<img align="left" alt="Sass" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/sass-226054.png" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/typescript-1174965.png" />
-<img align="left" alt="Webpack" width="30px" src="https://cdn.iconscout.com/icon/free/png-32/webpack-3-1174982.png" /><br />
+<img align="left" alt="Angular" src="https://cdn.iconscout.com/icon/free/png-32/angular-2038881-1720094.png" />
+<img align="left" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-32/bootstrap-226077.png" />
+<img align="left" alt="CSS3" src="https://cdn.iconscout.com/icon/free/png-32/css3-9-1175237.png" />
+<img align="left" alt="HTML5" src="https://cdn.iconscout.com/icon/free/png-32/html5-10-569380.png" />
+<img align="left" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-32/javascript-24-1174950.png" />
+<img align="left" alt="jQuery" src="https://cdn.iconscout.com/icon/free/png-32/jquery-10-1175155.png" />
+<img align="left" alt="React" src="https://cdn.iconscout.com/icon/free/png-32/react-4-1175110.png" />
+<img align="left" alt="Sass" src="https://cdn.iconscout.com/icon/free/png-32/sass-226054.png" />
+<img align="left" alt="TypeScript" src="https://cdn.iconscout.com/icon/free/png-32/typescript-1174965.png" />
+<img align="left" alt="Webpack" src="https://cdn.iconscout.com/icon/free/png-32/webpack-3-1174982.png" /><br />
 
 #### _Back-End_
 
-<img align="left" alt="C#" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />
-<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />
-<img align="left" alt="PHP" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" />
-<img align="left" alt="Ruby" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-46-1175101.png" />
-<img align="left" alt="Ruby on Rails" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />
+<img align="left" alt="C#" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />
+<img align="left" alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-58-1174951.png" />
+<img align="left" alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />
+<img align="left" alt="PHP" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" />
+<img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" />
+<img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-256/ruby-46-1175101.png" />
+<img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-512/rails-2-1175112.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sql-29-1127899.png" /><br />
 
 #### _Misc._
