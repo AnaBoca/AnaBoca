@@ -1,6 +1,6 @@
 # Hi there 👋 - I'm Ana!
 
-### DEVELOPER && POET
+### FRONT-END DEVELOPER && POET
 
 ✍️ Background: I have a Masters of Fine Arts in Creative Writing with an emphasis in poetry and used to teach at the university level.<br />
 👩‍💻 2021 Goals: I want to competently use Angular, React, and Vue. I already know how to use React somewhat competently and am currently learning Angular.<br />
