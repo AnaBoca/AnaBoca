@@ -41,7 +41,7 @@
 <img align="left" alt="Git" src="https://cdn.iconscout.com/icon/free/png-48/git-225996.png" />
 <img align="left" alt="GitHub" src="https://cdn.iconscout.com/icon/free/png-48/github-2506802-2100702.png" />
 <img align="left" alt="OOP" width="48px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
-<img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br /><br />
+<img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br /><br /><br />
 
 ### A LITTLE MORE ABOUT ME
 
