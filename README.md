@@ -43,6 +43,16 @@
 <img align="left" alt="OOP" width="48px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
 <img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br /><br />
 
+### A LITTLE MORE ABOUT ME
+
+My name is Ana Boca and I am in Phoenix, AZ. I am a green developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
+
+I decided to make a career change a couple of years ago and bridge the parallels between my writing skill set in a more technical manner. I think that coding is very similar to writing a poem - both are very much concerned with an economy of language. I had a lot of help with my career transition from my husband who is an Angular expert and fanboy and currently works for Amazon.
+
+I obtained my associates in web development, went to a coding boot camp, and graduated in 2020. I have been working part-time mostly making websites responsive using bootstrap and am looking for a full-time job. I am also looking forward to being a part of a team environment.
+
+In the meantime, I have been practicing my javascript skills and am looking to become competent in the main javascript frameworks. One of the most exciting projects I have worked on thus far was my capstone project from my boot camp, which was an app that tracks vaccine appointments for cats because I was able to pull in nearly every coding skill I had learned at that point into an idea that I organically came up with. So far, I have contributed to open source by way of editing technical documentation for my husband’s ngx-errors library (which was recently endorsed by the Angular team on Twitter). I look forward to contributing on a more technical level in the future as a developer.
+
 ---
 
 ### MY STATS
