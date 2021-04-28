@@ -29,12 +29,12 @@
 
 <img align="left" alt="C#" src="https://cdn.iconscout.com/icon/free/png-32/csharp-1-1175241.png" />
 <img align="left" alt="Java" src="https://cdn.iconscout.com/icon/free/png-32/java-58-1174951.png" />
-<img align="left" alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-32/mysql-19-1174939.png" />
+<img align="left" alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-48/mysql-19-1174939.png" />
 <img align="left" alt="PHP" src="https://cdn.iconscout.com/icon/free/png-32/php-99-1175127.png" />
 <img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-32/postgresql-5-569524.png" />
 <img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-32/ruby-46-1175101.png" />
 <img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-32/rails-2-1175112.png" />
-<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-32/sql-29-1127899.png" /><br />
+<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-29-1127899.png" /><br />
 
 #### _Misc._
 
