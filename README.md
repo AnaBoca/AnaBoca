@@ -8,7 +8,7 @@
 
 ### CONNECT WITH ME
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][linkedin]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-32/linkedin-42-151143.png" />][linkedin]
 
 ### TECHNOLOGIES
 
