@@ -38,7 +38,7 @@
 
 #### _Misc._
 
-<img align="left" alt="Cypress" height="48px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcypress-io&psig=AOvVaw2W1X_TDjhG4OCFsw9C3sQ8&ust=1627510783423000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiYkaekhPICFQAAAAAdAAAAABAD" />
+<img align="left" alt="Cypress" height="48px" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />
 <img align="left" alt="Git" src="https://cdn.iconscout.com/icon/free/png-48/git-225996.png" />
 <img align="left" alt="GitHub" src="https://cdn.iconscout.com/icon/free/png-48/github-2506802-2100702.png" />
 <img align="left" alt="OOP" width="48px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
