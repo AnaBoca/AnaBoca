@@ -12,7 +12,7 @@
 
 ### TECHNOLOGIES
 
-#### _Front-End_
+#### _Frontend_
 
 <img align="left" alt="Angular" src="https://cdn.iconscout.com/icon/free/png-48/angular-2038881-1720094.png" />
 <img align="left" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-48/bootstrap-226077.png" />
@@ -25,7 +25,7 @@
 <img align="left" alt="TypeScript" src="https://cdn.iconscout.com/icon/free/png-48/typescript-1174965.png" />
 <img align="left" alt="Webpack" src="https://cdn.iconscout.com/icon/free/png-48/webpack-3-1174982.png" /><br /><br />
 
-#### _Back-End_
+#### _Backend_
 
 <img align="left" alt="C#" src="https://cdn.iconscout.com/icon/free/png-48/csharp-1-1175241.png" />
 <img align="left" alt="Java" src="https://cdn.iconscout.com/icon/free/png-48/java-58-1174951.png" />
