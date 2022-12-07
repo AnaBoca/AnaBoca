@@ -1,6 +1,6 @@
 # Hi there 👋 - I'm Ana!
 
-### FRONT-END DEVELOPER && POET
+### FRONTEND DEVELOPER && POET
 
 ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.<br />
 👩‍💻 2022 Goals: Go from a green dev to a mid-level dev.<br />
