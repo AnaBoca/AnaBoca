@@ -43,8 +43,9 @@
 <img align="left" alt="Git Extensions" height="48px" src="https://avatars.githubusercontent.com/u/1700077?s=280&v=4" />
 <img align="left" alt="GitHub" src="https://cdn.iconscout.com/icon/free/png-48/github-2506802-2100702.png" />
 <img align="left" alt="Jest" width="48px" src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" />
-<img align="left" alt="RSpec" width="48px" src="https://rspec.info/images/logo_ogp.png" />
+<img align="left" alt="Nx" width="48px" src="https://miro.medium.com/max/1048/0*pYqcf7guMX53mXQx.png" />
 <img align="left" alt="OOP" width="48px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
+<img align="left" alt="RSpec" width="48px" src="https://rspec.info/images/logo_ogp.png" />
 <img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br /><br /><br />
 
 ### A LITTLE MORE ABOUT ME
