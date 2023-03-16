@@ -3,7 +3,7 @@
 ### FRONTEND DEVELOPER && POET
 
 ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.<br />
-👩‍💻 2022 Goals: Go from a green dev to a mid-level dev.<br />
+👩‍💻 2023 Goals: Finally breakthrough the borderline between junior- and mid-level dev.<br />
 🤪 Fun Fact: I am a home organization hobbyist.<br />
 
 ### CONNECT WITH ME
@@ -52,9 +52,9 @@
 
 My name is Ana Boca and I am in Phoenix, Arizona. I am a green developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
 
-I decided to make a career change a couple of years ago and bridge the parallels between my writing skill set in a more technical manner. I think that coding is very similar to writing a poem - both are concerned with an economy of language. I had a lot of help with my career transition from my husband who is an Angular expert and fanboy and currently works for Amazon.
+I decided to make a career change a few years ago and bridge the parallels between my writing skill set in a more technical manner. I think that coding is very similar to writing a poem - both are concerned with an economy of language. I had a lot of help with my career transition from my husband who is an Angular expert and fanboy and currently works for Amazon.
 
-I obtained my associates in web development, went to a coding boot camp, and graduated in 2020. I am currently a software engineer at Universal Plant Services. I primarily work on bug fixes, feature development, writing end-to-end tests using Cypress, writing unit tests using Jest, and documentation.
+I obtained my associates in web development, went to a coding boot camp, and graduated in 2020. My most recent experience was as a software engineer at Universal Plant Services for nearly two years. In my time in this position, I grew immensely. I primarily worked on bug fixes, feature development, writing end-to-end tests using Cypress, writing unit tests using Jest, and documentation.
 
 In the meantime, I have been practicing my javascript skills and am looking to become more and more competent in the frontend. One of the most exciting projects I have worked on thus far was my capstone project ([cattycrap](https://github.com/AnaBoca/cattycrap)) from my boot camp, which was an app that tracks vaccine appointments for cats because I was able to pull in nearly every coding skill I had learned at that point into an idea that I organically came up with. So far, I have contributed to open source by way of editing technical documentation for my husband’s [ngx-errors library](https://github.com/ngspot/ngx-errors) ([which was endorsed by the Angular team on Twitter](https://twitter.com/angular/status/1355259422545752076)). I look forward to contributing on a more technical level in the future as a developer.
 
