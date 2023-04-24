@@ -4,17 +4,19 @@
 
 <br>
 
+<div align="center">
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
-| ✍️ Background                                                                                                                    | 👩‍💻 2023 Goals                                                          | 🤪 Fun Fact                        |
-| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------- |
-| I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level. | Finally breakthrough the borderline between junior- and mid-level dev. | I am a home organization hobbyist. |
+</div>
+
+|               |                                                                                                                                  |
+| ------------: | -------------------------------------------------------------------------------------------------------------------------------- |
+| ✍️ Background | I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level. |
+| 👩‍💻 2023 Goals | Finally breakthrough the borderline between junior- and mid-level dev.                                                           |
+|   🤪 Fun Fact | I am a home organization hobbyist.                                                                                               |
 
 ### TECHNOLOGIES
-
-<div style="margin-bottom: 1000px">
-
-  <div style="float: left">
 
 |                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
 | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
@@ -31,21 +33,9 @@
 |     ![](https://img.shields.io/badge/TypeScript-red?style=for-the-badge)     |                                                                                   |                                                                                     |
 |      ![](https://img.shields.io/badge/Webpack-red?style=for-the-badge)       |                                                                                   |                                                                                     |
 
-  </div>
-
-  <div style="float: right">
-
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
-
-  </div>
-
-</div>
-
-<br>
-<br>
-<br>
 
 ### A LITTLE MORE ABOUT ME
 
