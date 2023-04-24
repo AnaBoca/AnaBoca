@@ -14,6 +14,8 @@
 
 <div align="left">
 
+  <div align="left">
+
 |                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
 | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 |      ![](https://img.shields.io/badge/Angular-red?style=for-the-badge)       |       ![](https://img.shields.io/badge/C%23-important?style=for-the-badge)        |        ![](https://img.shields.io/badge/Cypress-yellow?style=for-the-badge)         |
@@ -29,13 +31,15 @@
 |     ![](https://img.shields.io/badge/TypeScript-red?style=for-the-badge)     |                                                                                   |                                                                                     |
 |      ![](https://img.shields.io/badge/Webpack-red?style=for-the-badge)       |                                                                                   |                                                                                     |
 
-</div>
+  </div>
 
-<div align="right">
+  <div align="right">
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
+
+  </div>
 
 </div>
 
