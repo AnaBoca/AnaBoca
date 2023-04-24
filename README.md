@@ -8,15 +8,9 @@
 
 ### CONNECT WITH ME
 
-<div align="center">
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
-</div>
-
 ### TECHNOLOGIES
-
-<div align="center">
 
 |                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
 | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
@@ -33,8 +27,6 @@
 |     ![](https://img.shields.io/badge/TypeScript-red?style=for-the-badge)     |                                                                                   |                                                                                     |
 |      ![](https://img.shields.io/badge/Webpack-red?style=for-the-badge)       |                                                                                   |                                                                                     |
 
-</div>
-
 ### A LITTLE MORE ABOUT ME
 
 My name is Ana Boca and I am in Phoenix, Arizona. I am on the border between a junior and mid-level front-end developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
@@ -50,6 +42,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 ### MY STATS
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
 
 ### MY REPOS
