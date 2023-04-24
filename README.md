@@ -2,15 +2,17 @@
 
 ### FRONTEND DEVELOPER && POET
 
-✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.<br />
-👩‍💻 2023 Goals: Finally breakthrough the borderline between junior- and mid-level dev.<br />
-🤪 Fun Fact: I am a home organization hobbyist.<br />
-
-### CONNECT WITH ME
+<br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
+| ✍️ Background                                                                                                                    | 👩‍💻 2023 Goals                                                          | 🤪 Fun Fact                        |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------- |
+| I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level. | Finally breakthrough the borderline between junior- and mid-level dev. | I am a home organization hobbyist. |
+
 ### TECHNOLOGIES
+
+<div align="left">
 
 |                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
 | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
@@ -27,6 +29,16 @@
 |     ![](https://img.shields.io/badge/TypeScript-red?style=for-the-badge)     |                                                                                   |                                                                                     |
 |      ![](https://img.shields.io/badge/Webpack-red?style=for-the-badge)       |                                                                                   |                                                                                     |
 
+</div>
+
+<div align="right">
+
+![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+
+![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
+
+</div>
+
 ### A LITTLE MORE ABOUT ME
 
 My name is Ana Boca and I am in Phoenix, Arizona. I am on the border between a junior and mid-level front-end developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
@@ -40,10 +52,6 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 ---
 
 ### MY STATS
-
-![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
-
-![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
 
 ### MY REPOS
 
