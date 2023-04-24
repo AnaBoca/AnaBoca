@@ -2,8 +2,6 @@
 
 ### **👩🏻‍💻 FRONTEND DEVELOPER && POET**
 
-<br>
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
 > ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.
