@@ -70,6 +70,8 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 ### MY REPOS
 
+[![hivehapp](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=hivehapp&theme=algolia)](https://github.com/AnaBoca/hivehapp)
+[![demo-playground](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=demo-playground&theme=algolia)](https://github.com/AnaBoca/demo-playground)
 [![ng-girls-todo-list-tutorial-practice](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=ng-girls-todo-list-tutorial-practice&theme=algolia)](https://github.com/AnaBoca/ng-girls-todo-list-tutorial-practice)
 [![barista-competition-challenge](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=barista-competition-challenge&theme=algolia)](https://github.com/AnaBoca/barista-competition-challenge)
 [![note-app](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=note-app&theme=blueberry)](https://github.com/AnaBoca/note-app)
