@@ -4,7 +4,11 @@
 
 <br>
 
+<div align="center">
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
+
+</div>
 
     ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.
 
@@ -24,6 +28,8 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 ### **💻 TECHNOLOGIES**
 
+<div align="center">
+
 |                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
 | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 |      ![](https://img.shields.io/badge/Angular-red?style=for-the-badge)       |       ![](https://img.shields.io/badge/C%23-important?style=for-the-badge)        |        ![](https://img.shields.io/badge/Cypress-yellow?style=for-the-badge)         |
@@ -39,16 +45,24 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 |     ![](https://img.shields.io/badge/TypeScript-red?style=for-the-badge)     |                                                                                   |                                                                                     |
 |      ![](https://img.shields.io/badge/Webpack-red?style=for-the-badge)       |                                                                                   |
 
+</div>
+
 ---
 
 ### **📈 MY STATS**
 
+<div align="center">
+
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
+
+</div>
 
 ---
 
 ### 🪣 MY REPOS
+
+<div align="center">
 
 [![hivehapp](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=hivehapp&theme=radical)](https://github.com/AnaBoca/hivehapp)
 [![demo-playground](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=demo-playground&theme=radical)](https://github.com/AnaBoca/demo-playground)
@@ -67,3 +81,5 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 [![scc-final-cactuscatsitter](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-final-cactuscatsitter&theme=outrun)](https://github.com/AnaBoca/scc-final-cactuscatsitter)
 [![scc-group-bandsite](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-group-bandsite&theme=outrun)](https://github.com/AnaBoca/scc-group-bandsite)
 [![scc-midterm-cssgrid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-cssgrid&theme=outrun)](https://github.com/AnaBoca/scc-midterm-cssgrid)
+
+</div>
