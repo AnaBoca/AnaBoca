@@ -8,13 +8,15 @@
 
 ### CONNECT WITH ME
 
-<center>
+<div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
-</center>
+</div>
 
 ### TECHNOLOGIES
+
+<div align="center">
 
 |                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
 | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
@@ -30,6 +32,8 @@
 |      ![](https://img.shields.io/badge/Tailwind-red?style=for-the-badge)      |                                                                                   |                                                                                     |
 |     ![](https://img.shields.io/badge/TypeScript-red?style=for-the-badge)     |                                                                                   |                                                                                     |
 |      ![](https://img.shields.io/badge/Webpack-red?style=for-the-badge)       |                                                                                   |                                                                                     |
+
+</div>
 
 ### A LITTLE MORE ABOUT ME
 
