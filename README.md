@@ -12,9 +12,9 @@
 
 ### TECHNOLOGIES
 
-<div align="left">
+<div style="margin-bottom: 1000px">
 
-  <div align="left">
+  <div style="float: left">
 
 |                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
 | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
@@ -33,7 +33,7 @@
 
   </div>
 
-  <div align="right">
+  <div style="float: right">
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 
@@ -42,6 +42,10 @@
   </div>
 
 </div>
+
+<br>
+<br>
+<br>
 
 ### A LITTLE MORE ABOUT ME
 
