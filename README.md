@@ -1,20 +1,16 @@
-# Hi there 👋 - I'm Ana!
+# <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='40' height='40'/> Hi there - I'm Ana!
 
 ### **👩🏻‍💻 FRONTEND DEVELOPER && POET**
 
 <br>
 
-<div align="center">
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
-</div>
-
-    ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.
-
-    👩‍💻 2023 Goals: Finally breakthrough the borderline between junior- and mid-level dev.
-
-    🤪 Fun Fact: I am a home organization hobbyist.
+> ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.
+> <br>
+> 👩‍💻 2023 Goals: Finally breakthrough the borderline between junior- and mid-level dev.
+> <br>
+> 🤪 Fun Fact: I am a home organization hobbyist.
 
 My name is Ana Boca and I am in Phoenix, Arizona. I am on the border between a junior and mid-level front-end developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
 
