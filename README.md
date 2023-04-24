@@ -8,48 +8,28 @@
 
 ### CONNECT WITH ME
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="center" alt="anaboca | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-48/linkedin-42-151143.png" />][linkedin]
+<center>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
+
+</center>
 
 ### TECHNOLOGIES
 
-#### _Frontend_
-
-<img align="left" alt="Angular" src="https://cdn.iconscout.com/icon/free/png-48/angular-2038881-1720094.png" />
-<img align="left" width="48px" alt="Angular Material" src="https://camo.githubusercontent.com/9ba016dbbe60f7b2c2835b9e633f8db7e4176e2be102b3280c91884f37207e9a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e67756c61722d6d6174657269616c2d657874656e73696f6e732f73656c6563742d69636f6e406d61737465722f6173736574732f616e67756c61722d6d6174657269616c2d657874656e73696f6e732d6c6f676f2e737667" />
-<img align="left" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-48/bootstrap-226077.png" />
-<img align="left" alt="CSS3" src="https://cdn.iconscout.com/icon/free/png-48/css3-9-1175237.png" />
-<img align="left" alt="HTML5" src="https://cdn.iconscout.com/icon/free/png-48/html5-10-569380.png" />
-<img align="left" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-48/javascript-24-1174950.png" />
-<img align="left" alt="jQuery" src="https://cdn.iconscout.com/icon/free/png-48/jquery-7-1175152.png" />
-<img align="left" alt="React" src="https://cdn.iconscout.com/icon/free/png-48/react-4-1175110.png" />
-<img align="left" width="48px" alt="RxJS" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" />
-<img align="left" alt="Sass" src="https://cdn.iconscout.com/icon/free/png-48/sass-226054.png" />
-<img align="left" width="48px" alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
-<img align="left" alt="TypeScript" src="https://cdn.iconscout.com/icon/free/png-48/typescript-1174965.png" />
-<img align="left" alt="Webpack" src="https://cdn.iconscout.com/icon/free/png-48/webpack-3-1174982.png" /><br /><br />
-
-#### _Backend_
-
-<img align="left" alt="C#" src="https://cdn.iconscout.com/icon/free/png-48/csharp-1-1175241.png" />
-<img align="left" alt="Java" src="https://cdn.iconscout.com/icon/free/png-48/java-58-1174951.png" />
-<img align="left" alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-48/mysql-21-1174941.png" />
-<img align="left" alt="PHP" src="https://cdn.iconscout.com/icon/free/png-48/php-99-1175127.png" />
-<img align="left" alt="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-48/postgresql-5-569524.png" />
-<img align="left" alt="Ruby" src="https://cdn.iconscout.com/icon/free/png-48/ruby-46-1175101.png" />
-<img align="left" alt="Ruby on Rails" src="https://cdn.iconscout.com/icon/free/png-48/rails-2-1175112.png" />
-<img align="left" alt="SQL" src="https://cdn.iconscout.com/icon/free/png-48/sql-file-2917473-2420443.png" /><br /><br />
-
-#### _Misc._
-
-<img align="left" alt="Cypress" height="48px" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />
-<img align="left" alt="Git" src="https://cdn.iconscout.com/icon/free/png-48/git-225996.png" />
-<img align="left" alt="Git Extensions" height="48px" src="https://avatars.githubusercontent.com/u/1700077?s=280&v=4" />
-<img align="left" alt="GitHub" src="https://cdn.iconscout.com/icon/free/png-48/github-2506802-2100702.png" />
-<img align="left" alt="Jest" width="48px" src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" />
-<img align="left" alt="Nx" width="48px" src="https://miro.medium.com/max/1048/0*pYqcf7guMX53mXQx.png" />
-<img align="left" alt="OOP" width="48px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
-<img align="left" alt="RSpec" width="48px" src="https://rspec.info/images/logo_ogp.png" />
-<img align="left" alt="Visual Studio Code" src="https://cdn.iconscout.com/icon/free/png-48/visual-studio-code-1868941-1583105.png" /><br /><br /><br />
+|                                   Frontend                                   |                                      Backend                                      |                                        Misc.                                        |
+| :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+|      ![](https://img.shields.io/badge/Angular-red?style=for-the-badge)       |       ![](https://img.shields.io/badge/C%23-important?style=for-the-badge)        |        ![](https://img.shields.io/badge/Cypress-yellow?style=for-the-badge)         |
+| ![](https://img.shields.io/badge/Angular%20Material-red?style=for-the-badge) |       ![](https://img.shields.io/badge/.NET-important?style=for-the-badge)        |          ![](https://img.shields.io/badge/Git-yellow?style=for-the-badge)           |
+|     ![](https://img.shields.io/badge/Bootstrap-red?style=for-the-badge)      |       ![](https://img.shields.io/badge/Java-important?style=for-the-badge)        |    ![](https://img.shields.io/badge/Git%20Extensions-yellow?style=for-the-badge)    |
+|        ![](https://img.shields.io/badge/CSS3-red?style=for-the-badge)        |       ![](https://img.shields.io/badge/MySQL-important?style=for-the-badge)       |         ![](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge)         |
+|       ![](https://img.shields.io/badge/HTML5-red?style=for-the-badge)        |        ![](https://img.shields.io/badge/PHP-important?style=for-the-badge)        |          ![](https://img.shields.io/badge/Jest-yellow?style=for-the-badge)          |
+|     ![](https://img.shields.io/badge/JavaScript-red?style=for-the-badge)     |    ![](https://img.shields.io/badge/PostgreSQL-important?style=for-the-badge)     |           ![](https://img.shields.io/badge/Nx-yellow?style=for-the-badge)           |
+|       ![](https://img.shields.io/badge/jQuery-red?style=for-the-badge)       |       ![](https://img.shields.io/badge/Ruby-important?style=for-the-badge)        |          ![](https://img.shields.io/badge/OOP-yellow?style=for-the-badge)           |
+|       ![](https://img.shields.io/badge/React-red?style=for-the-badge)        | ![](https://img.shields.io/badge/Ruby%20on%20Rails-important?style=for-the-badge) |         ![](https://img.shields.io/badge/RSpec-yellow?style=for-the-badge)          |
+|        ![](https://img.shields.io/badge/RxJS-red?style=for-the-badge)        |        ![](https://img.shields.io/badge/SQL-important?style=for-the-badge)        | ![](https://img.shields.io/badge/Visual%20Studio%20Code-yellow?style=for-the-badge) |
+|      ![](https://img.shields.io/badge/Tailwind-red?style=for-the-badge)      |                                                                                   |                                                                                     |
+|     ![](https://img.shields.io/badge/TypeScript-red?style=for-the-badge)     |                                                                                   |                                                                                     |
+|      ![](https://img.shields.io/badge/Webpack-red?style=for-the-badge)       |                                                                                   |                                                                                     |
 
 ### A LITTLE MORE ABOUT ME
 
