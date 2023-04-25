@@ -4,7 +4,7 @@
 
 > ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.
 > <br>
-> 👩‍💻 2023 Goals: Finally breakthrough the borderline between junior- and mid-level dev.
+> 👩‍💻 2023 Goals: Finally break through the borderline between junior- and mid-level dev.
 > <br>
 > 🤪 Fun Fact: I am a home organization hobbyist.
 
