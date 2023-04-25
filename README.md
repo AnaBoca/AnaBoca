@@ -43,6 +43,9 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 ### **📈 MY STATS**
 
+<details>
+<summary>"Click to see my stats"</summary>
+<br>
 <div align="center">
 
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=chartreuse-dark&hide=ruby,coffeescript)
@@ -50,11 +53,15 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 
 </div>
+</details>
 
 ---
 
 ### 🪣 MY REPOS
 
+<details>
+<summary>"Click to see my repos"</summary>
+<br>
 <div align="center">
 
 [![hivehapp](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=hivehapp&theme=radical)](https://github.com/AnaBoca/hivehapp)
@@ -76,3 +83,5 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 [![scc-midterm-cssgrid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-cssgrid&theme=outrun)](https://github.com/AnaBoca/scc-midterm-cssgrid)
 
 </div>
+
+</details>
