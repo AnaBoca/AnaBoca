@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='40' height='40'/> Hi there - I'm Ana!
+# <img src="https://tenor.com/view/peach-cat-mochi-mochi-hello-waving-box-gif-15495759" alt="waving hand" width='40' height='40'/> Hi there - I'm Ana!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
