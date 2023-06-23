@@ -4,21 +4,51 @@
 
 ```javascript
 const ANA_BOCA = {
-  location: [
-    city: "Phoenix",
-    state: "Arizona"
-  ],
+  location: {
+    city: 'Phoenix',
+    state: 'Arizona',
+  },
   technologies: {
     frontend: [
-      "Angular", "Angular Material", "Bootstrap", "CSS", "HTML", "JavaScript", "jQuery", "Kendo UI for Angular", "React", "RxJS", "SASS", "Tailwind", "TypeScript", "Webpack"
+      'Angular',
+      'Angular Material',
+      'Bootstrap',
+      'CSS',
+      'HTML',
+      'JavaScript',
+      'jQuery',
+      'Kendo UI for Angular',
+      'React',
+      'RxJS',
+      'SASS',
+      'Tailwind',
+      'TypeScript',
+      'Webpack',
     ],
     backend: [
-      "C#", "Java", "MySQL", ".NET", "PHP", "PostgreSQL", "Ruby", "Ruby on Rails", "SQL", "SQL Server"
+      'C#',
+      'Java',
+      'MySQL',
+      '.NET',
+      'PHP',
+      'PostgreSQL',
+      'Ruby',
+      'Ruby on Rails',
+      'SQL',
+      'SQL Server',
     ],
     miscellaneous: [
-      "Cypress", "Git/Git Extensions/GitHub", "Jasmine/Karma", "Jest", "Nx", "Object-Oriented Programming (OOP)", "Reactive Programming", "RSpec", "Visual Studio Code"
-    ]
-  }
+      'Cypress',
+      'Git/Git Extensions/GitHub',
+      'Jasmine/Karma',
+      'Jest',
+      'Nx',
+      'Object-Oriented Programming (OOP)',
+      'Reactive Programming',
+      'RSpec',
+      'Visual Studio Code',
+    ],
+  },
 };
 ```
 
