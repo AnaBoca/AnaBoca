@@ -2,11 +2,55 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
-> ✍️ Background: I have a Masters of Fine Arts in creative writing with an emphasis in poetry and taught writing courses at the university level.
-> <br>
-> 👩‍💻 2023 Goals: Finally break through the borderline between junior- and mid-level dev.
-> <br>
-> 🤪 Fun Fact: I am a home organization hobbyist.
+```
+const ANA_BOCA = {
+  location: [
+    city: "Phoenix",
+    state: "Arizona"
+  ],
+  technologies: {
+    frontend: [
+      "Angular",
+      "Angular Material",
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "Kendo UI for Angular",
+      "React",
+      "RxJS",
+      "SASS",
+      "Tailwind",
+      "TypeScript",
+      "Webpack"
+    ],
+    backend: [
+      "C#",
+      "Java",
+      "MySQL",
+      ".NET",
+      "PHP",
+      "PostgreSQL",
+      "Ruby",
+      "Ruby on Rails",
+      "SQL",
+      "SQL Server"
+    ],
+    miscellaneous: [
+      "Cypress",
+      "Git/Git Extensions/GitHub",
+      "Jasmine/Karma",
+      "Jest",
+      "Nx",
+      "Object-Oriented Programming (OOP)",
+      "Reactive Programming",
+      "RSpec",
+      "Visual Studio Code"
+    ]
+  }
+};
+```
 
 My name is Ana Boca and I am in Phoenix, Arizona. I am on the border between a junior and mid-level front-end developer. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry. I then taught at a public charter school and have been a recruiter in between.
 
