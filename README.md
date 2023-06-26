@@ -1,6 +1,6 @@
-# <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='40' height='40'/> Hi there - I'm Ana!
-
 <img align='right' src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="230">
+
+# <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='40' height='40'/> Hi there - I'm Ana!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
