@@ -2,8 +2,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
-<img align="left" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="215">
-
 ```javascript
 const ANA_BOCA = {
   myTopFiveTechnologies: ['Angular', 'Bootstrap', 'CSS', 'HTML', 'JavaScript'],
@@ -15,6 +13,8 @@ const ANA_BOCA = {
   myBestFriends: 'https://photos.app.goo.gl/uUZ55Z6DceKo5k6Y9',
 };
 ```
+
+<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="215">
 
 <br>
 <hr>
