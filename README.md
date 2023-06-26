@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="1000px">
+<td width="2000px">
 
 ```javascript
 const ANA_BOCA = {
@@ -21,7 +21,7 @@ const ANA_BOCA = {
 </td>
 <td>
 
-<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="400px">
+<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="300px">
 
 </td>
 </tr>
