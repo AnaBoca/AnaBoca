@@ -4,11 +4,19 @@
 
 ```javascript
 const ANA_BOCA = {
-  location: {
-    city: 'Phoenix',
-    state: 'Arizona',
-  },
+  myTopFiveTechnologies: [
+    "Angular",
+    "Bootstrap",
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  techCommunity: {
+    group: "Angular Community Meetup",
+    url: "https://www.meetup.com/angularcommunity/"
+  }
   funFact: '♡ I am a home organization hobbyist ♡',
+  myBestFriends: "https://photos.app.goo.gl/uUZ55Z6DceKo5k6Y9"
 };
 ```
 
