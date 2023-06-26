@@ -57,9 +57,9 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 </div>
 
----
+<hr>
 
-### **📈 MY STATS**
+![](https://img.shields.io/badge/My%20Stats-mediumblue?style=for-the-badge)
 
 <details>
 <summary>"Click to see my stats"</summary>
@@ -73,9 +73,9 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 </div>
 </details>
 
----
+<hr>
 
-### 🪣 MY REPOS
+![](https://img.shields.io/badge/My%20Repos-royalblue?style=for-the-badge)
 
 <details>
 <summary>"Click to see my repos"</summary>
