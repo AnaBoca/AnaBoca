@@ -18,9 +18,9 @@ const ANA_BOCA = {
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="500">
-
 <hr>
+
+<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="500">
 
 ![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
