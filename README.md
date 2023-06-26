@@ -14,9 +14,7 @@ const ANA_BOCA = {
 };
 ```
 
-<br>
 <hr>
-<br>
 
 ![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
@@ -24,9 +22,7 @@ const ANA_BOCA = {
 - [Mar 15, 2022 from @shai_reznik for hosting testing event](https://twitter.com/shai_reznik/status/1503725360327897092)
 - [Aug 31, 2022 from @shai_reznik - girl in the front with the glasses](https://twitter.com/shai_reznik/status/1565146679883403264?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
 
-<br>
 <hr>
-<br>
 
 ![](https://img.shields.io/badge/A%20Little%20Exposition-green?style=for-the-badge)
 
@@ -38,9 +34,7 @@ I obtained my associates in web development in 2019 and graduated from a coding 
 
 In the meantime, I have been practicing my javascript skills and am looking to become more and more competent in the frontend. I am currently working on a personal project called [hivehapp](https://github.com/AnaBoca/hivehapp) using Nx, Angular, and Angular Material. I am am home organization hobbyist and am happy to be utilizing my skills to create a home management app. So far, I have contributed to open source by way of editing technical documentation for my husband’s [ngx-errors library](https://github.com/ngspot/ngx-errors) ([which was endorsed by the Angular team on Twitter](https://twitter.com/angular/status/1355259422545752076)).
 
-<br>
 <hr>
-<br>
 
 ![](https://img.shields.io/badge/Technologies-purple?style=for-the-badge)
 
