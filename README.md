@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/mXX9srd5Q0mXPjdvIe/giphy.gif" alt="waving cat" width='30' height='30'/> Hi there - I'm Ana!
+# <img src="https://media.giphy.com/media/mXX9srd5Q0mXPjdvIe/giphy.gif" alt="waving cat" width="60px" /> Hi there - I'm Ana!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
