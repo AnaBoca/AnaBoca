@@ -24,7 +24,7 @@ const ANA_BOCA = {
 
 <hr>
 
-![](https://img.shields.io/badge/A%20Little%20Exposition-green?style=for-the-badge)
+![](https://img.shields.io/badge/A%20Little%20Exposition-darkcyan?style=for-the-badge)
 
 My name is Ana Boca and I am in Phoenix, Arizona. In my professional past life, I was a writing teacher at the university level while I was in grad school earning my degree in creative writing with an emphasis in poetry.
 
@@ -36,7 +36,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <hr>
 
-![](https://img.shields.io/badge/Technologies-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Technologies-darkslateblue?style=for-the-badge)
 
 <div align="center">
 
