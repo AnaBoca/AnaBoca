@@ -21,7 +21,7 @@ const ANA_BOCA = {
 </td>
 <td>
 
-<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="500">
+<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="300">
 
 </td>
 </tr>
