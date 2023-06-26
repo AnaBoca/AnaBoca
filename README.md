@@ -59,7 +59,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <hr>
 
-![](https://img.shields.io/badge/My%20Stats-mediumblue?style=for-the-badge)
+![](https://img.shields.io/badge/My%20Stats-steelblue?style=for-the-badge)
 
 <details>
 <summary>"Click to see my stats"</summary>
