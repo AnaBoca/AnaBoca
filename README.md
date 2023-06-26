@@ -1,6 +1,6 @@
 <!-- <img src="/header.svg"> -->
 
-# <img src="https://media.giphy.com/media/mXX9srd5Q0mXPjdvIe/giphy.gif" alt="waving cat" width="60px" /> Hi there - I'm Ana!
+# <img src="https://media.giphy.com/media/W1ruqdxl9rKsO26nUa/giphy.gif" alt="waving cat" width="60px" /> Hi there - I'm Ana!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
 
@@ -16,7 +16,7 @@ const ANA_BOCA = {
     url: 'https://www.meetup.com/angularcommunity/',
   },
   funFact: '♡ I am a home organization hobbyist ♡',
-  bestFriends: 'https://photos.app.goo.gl/uUZ55Z6DceKo5k6Y9',
+  mbestFriends: 'https://photos.app.goo.gl/uUZ55Z6DceKo5k6Y9',
 };
 ```
 
