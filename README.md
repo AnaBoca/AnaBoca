@@ -39,7 +39,7 @@ const ANA_BOCA = {
 
 <hr>
 
-![](https://img.shields.io/badge/A%20Little%20Exposition-f2808e?style=for-the-badge)
+![](https://img.shields.io/badge/Exposition-f2808e?style=for-the-badge)
 
 In my professional past life, I was a writing teacher at the university level while I was in grad school earning my Master of Fine Arts (a terminal degree equivalent to an EdD or PhD) in Creative Writing, with an emphasis in poetry. I decided to make a career change a few years ago bridging the parallels between my writing skills in a more technical manner. Both poetry and coding are concerned with an economy of language. My career transition was aided greatly by my husband who is an Angular expert and currently works as a Senior Front-End Engineer at Amazon.
 
@@ -72,7 +72,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <hr>
 
-![](https://img.shields.io/badge/My%20Stats-f2808e?style=for-the-badge)
+![](https://img.shields.io/badge/Stats-f2808e?style=for-the-badge)
 
 <details>
 <summary>"Click to see my stats"</summary>
@@ -88,7 +88,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <hr>
 
-![](https://img.shields.io/badge/My%20Repos-f2808e?style=for-the-badge)
+![](https://img.shields.io/badge/Repos-f2808e?style=for-the-badge)
 
 <details>
 <summary>"Click to see my repos"</summary>
