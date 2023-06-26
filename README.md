@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/mXX9srd5Q0mXPjdvIe/giphy.gif" alt="waving cat" width="60px" /> Hi there - I'm Ana!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=5457ff)](https://www.linkedin.com/in/anaboca/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
 
 <table>
 <tr>
@@ -31,7 +31,7 @@ const ANA_BOCA = {
 
 <hr>
 
-![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=5457ff)
+![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=f2808e)
 
 - [Jan 20, 2021 from @angular endorsing ngx-errors library](https://twitter.com/angular/status/1355259422545752076)
 - [Mar 15, 2022 from @shai_reznik for hosting testing event](https://twitter.com/shai_reznik/status/1503725360327897092)
@@ -39,7 +39,7 @@ const ANA_BOCA = {
 
 <hr>
 
-![](https://img.shields.io/badge/A%20Little%20Exposition-5457ff?style=for-the-badge)
+![](https://img.shields.io/badge/A%20Little%20Exposition-f2808e?style=for-the-badge)
 
 In my professional past life, I was a writing teacher at the university level while I was in grad school earning my Master of Fine Arts (a terminal degree equivalent to an EdD or PhD) in Creative Writing, with an emphasis in poetry. I decided to make a career change a few years ago bridging the parallels between my writing skills in a more technical manner. Both poetry and coding are concerned with an economy of language. My career transition was aided greatly by my husband who is an Angular expert and currently works as a Senior Front-End Engineer at Amazon.
 
@@ -49,7 +49,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <hr>
 
-![](https://img.shields.io/badge/Technologies-5457ff?style=for-the-badge)
+![](https://img.shields.io/badge/Technologies-f2808e?style=for-the-badge)
 
 <div align="center">
 
@@ -72,7 +72,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <hr>
 
-![](https://img.shields.io/badge/My%20Stats-5457ff?style=for-the-badge)
+![](https://img.shields.io/badge/My%20Stats-f2808e?style=for-the-badge)
 
 <details>
 <summary>"Click to see my stats"</summary>
@@ -88,7 +88,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <hr>
 
-![](https://img.shields.io/badge/My%20Repos-5457ff?style=for-the-badge)
+![](https://img.shields.io/badge/My%20Repos-f2808e?style=for-the-badge)
 
 <details>
 <summary>"Click to see my repos"</summary>
