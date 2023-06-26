@@ -18,7 +18,7 @@ const ANA_BOCA = {
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="430">
+<img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="500">
 
 <hr>
 
