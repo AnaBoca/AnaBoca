@@ -1,4 +1,4 @@
-<img src="/header.svg">
+<!-- <img src="/header.svg"> -->
 
 # <img src="https://media.giphy.com/media/mXX9srd5Q0mXPjdvIe/giphy.gif" alt="waving cat" width="60px" /> Hi there - I'm Ana!
 
