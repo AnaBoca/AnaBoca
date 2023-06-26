@@ -2,7 +2,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anaboca/)
 
-<div width="200px">
+<table>
+<tr>
+<td>
 
 ```javascript
 const ANA_BOCA = {
@@ -16,11 +18,16 @@ const ANA_BOCA = {
 };
 ```
 
-</div>
-
-<hr>
+</td>
+<td>
 
 <img align="right" src="https://media.giphy.com/media/1nnqPU3UNtwBmybOyM/giphy.gif" width="500">
+
+</td>
+</tr>
+</table>
+
+<hr>
 
 ![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
