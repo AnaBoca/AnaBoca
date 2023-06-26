@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="500">
+<td width="1000px">
 
 ```javascript
 const ANA_BOCA = {
