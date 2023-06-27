@@ -145,7 +145,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <table>
 
-<tr>
+<tr align="left">
 
 <th>Current 🌸</th>
 <th>Past 🌸</th>
