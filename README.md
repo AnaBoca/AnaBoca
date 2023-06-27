@@ -1,12 +1,12 @@
 <!-- <img src="/header.svg"> -->
 
-# <img src="https://media.giphy.com/media/mXX9srd5Q0mXPjdvIe/giphy.gif" alt="waving cat" width="60px" /> Hi there - I'm Ana!
+# <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="60px" /> Hi there - I'm Ana!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
 
 <table>
 <tr>
-<td width="1500px">
+<td width="1500px" style="background: pink;">
 
 ```javascript
 const ANA_BOCA = {
