@@ -78,7 +78,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <table>
 <tr>
-<td>
+<td width="500px">
 
 ![](https://img.shields.io/badge/💮%20Stats-f2808e?style=for-the-badge)
 
@@ -96,7 +96,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 </td>
 
-<td>
+<td width="500px">
 
 ![](https://img.shields.io/badge/💮%20Repos-f2808e?style=for-the-badge)
 
