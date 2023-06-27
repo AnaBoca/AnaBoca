@@ -9,7 +9,7 @@
 
 <hr>
 
-<div height="800px">
+<div height="2000px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
 
