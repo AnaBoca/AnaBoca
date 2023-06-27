@@ -51,7 +51,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 ![](https://img.shields.io/badge/Technologies-f2808e?style=for-the-badge)
 
-<div align="left">
+<div align="center">
 
 | Frontend                                                                                          | Backend                                                                                           | Misc.                                                                                                         |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ |
