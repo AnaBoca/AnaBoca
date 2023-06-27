@@ -53,7 +53,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 <tr>
 <td width="1500px" align="center">
 
-<img src="https://media.giphy.com/media/h3uCBYjnbUEQCGZJUN/giphy.gif" width="400px">
+<img src="https://media.giphy.com/media/h3uCBYjnbUEQCGZJUN/giphy.gif" width="600px">
 
 </td>
 <td width="250px" align="center">
