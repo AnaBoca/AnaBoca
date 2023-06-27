@@ -47,7 +47,7 @@ const ANA_BOCA = {
 
 </td>
 
-<td width="1500px" align="center">
+<td width="1500px">
 
 > [Jan 20, 2021 from @angular endorsing ngx-errors library](https://twitter.com/angular/status/1355259422545752076)<br>[Mar 15, 2022 from @shai_reznik for hosting testing event](https://twitter.com/shai_reznik/status/1503725360327897092)<br>[Aug 31, 2022 from @shai_reznik - girl in the front with the glasses](https://twitter.com/shai_reznik/status/1565146679883403264?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
 
