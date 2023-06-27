@@ -124,7 +124,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 <br>
 
 <table>
-<tr align="center">
+<tr align="center" width="1500px">
 <td>
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
