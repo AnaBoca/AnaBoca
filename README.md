@@ -123,13 +123,22 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <br>
 
-<div align="center">
-
-![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=dracula&hide=ruby,coffeescript)
+<table>
+<tr align="center">
+<td>
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
-</div>
+</td>
+
+<td>
+
+![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=dracula&hide=ruby,coffeescript)
+
+</td>
+</tr>
+</table>
+
 </details>
 
 <br>
