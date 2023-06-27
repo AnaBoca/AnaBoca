@@ -2,9 +2,13 @@
 
 <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="100px" align="left"/>
 
+<div align="center">
+
 # Hi there - I'm Ana!
 
-<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="100px" align="left"/>
+</div>
+
+<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="100px" align="right"/>
 
 <br>
 <br>
