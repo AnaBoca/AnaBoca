@@ -1,14 +1,17 @@
 <!-- <img src="/header.svg"> -->
 
 <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="200px" align="left"/>
-<h1 align="left">Hi there - I'm Ana!</h1>
-<h2 align="left">Frontend Developer && Poet</h2>
+
+# Hi there - I'm Ana!
+
+## Frontend Developer && Poet
+
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
+
 <hr>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
