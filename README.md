@@ -33,9 +33,7 @@ const ANA_BOCA = {
 
 ![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=f2808e)
 
-> [Jan 20, 2021 from @angular endorsing ngx-errors library](https://twitter.com/angular/status/1355259422545752076)<br>
-> [Mar 15, 2022 from @shai_reznik for hosting testing event](https://twitter.com/shai_reznik/status/1503725360327897092)<br>
-> [Aug 31, 2022 from @shai_reznik - girl in the front with the glasses](https://twitter.com/shai_reznik/status/1565146679883403264?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
+> [Jan 20, 2021 from @angular endorsing ngx-errors library](https://twitter.com/angular/status/1355259422545752076)<br> > [Mar 15, 2022 from @shai_reznik for hosting testing event](https://twitter.com/shai_reznik/status/1503725360327897092)<br> > [Aug 31, 2022 from @shai_reznik - girl in the front with the glasses](https://twitter.com/shai_reznik/status/1565146679883403264?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
 
 <hr>
 
@@ -53,7 +51,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <div align="center">
 
-| Frontend                                                                                          | Backend                                                                                           | Misc.                                                                                                         |
+| Frontend 🌸                                                                                       | Backend 🌸                                                                                        | Misc. 🌸                                                                                                      |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ |
 | ![](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=Angular&color=FF1493)          | ![](https://img.shields.io/badge/C%23-EE82EE?style=plastic)                                       | ![](https://img.shields.io/badge/Cypress-FF69B4?style=plastic&logo=Cypress&logoColor=white)                   |
 | ![](https://img.shields.io/badge/Angular%20Material-FF1493?style=plastic)                         | ![](https://img.shields.io/badge/.NET-EE82EE?style=plastic)                                       | ![](https://img.shields.io/badge/Git-FF69B4?style=plastic&logo=Git&logoColor=white)                           |
