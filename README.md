@@ -51,12 +51,12 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <table>
 <tr>
-<td>
+<td width="1500px">
 
 <img align="right" src="https://media.giphy.com/media/h3uCBYjnbUEQCGZJUN/giphy.gif" width="250px">
 
 </td>
-<td width="1500px" align="center">
+<td width="250px" align="center">
 
 | Frontend 🌸                                                                                       | Backend 🌸                                                                                        | Misc. 🌸                                                                                                      |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ |
