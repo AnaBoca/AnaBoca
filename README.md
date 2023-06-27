@@ -1,16 +1,9 @@
 <!-- <img src="/header.svg"> -->
 
-<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="100px" align="left"/>
-
-<div align="center">
+<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="150px" align="left"/>
 
 # Hi there - I'm Ana!
 
-</div>
-
-<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="100px" align="right"/>
-
-<br>
 <br>
 <br>
 <br>
