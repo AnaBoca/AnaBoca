@@ -9,6 +9,8 @@
 
 <hr>
 
+<div height="800px">
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
 
 <table>
@@ -35,6 +37,8 @@ const ANA_BOCA = {
 </td>
 </tr>
 </table>
+
+</div>
 
 <hr>
 
