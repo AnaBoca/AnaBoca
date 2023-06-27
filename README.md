@@ -87,7 +87,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 <table>
 <tr>
-<td width="1000px" align="center">
+<td  align="center">
 
 <img src="https://media.giphy.com/media/hoOv7dvN389k9dzFBj/giphy.gif" width="275px">
 
