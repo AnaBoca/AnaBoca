@@ -56,7 +56,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 <img align="right" src="https://media.giphy.com/media/h3uCBYjnbUEQCGZJUN/giphy.gif" width="250px">
 
 </td>
-<td width="1500px">
+<td width="1500px" align="center">
 
 | Frontend 🌸                                                                                       | Backend 🌸                                                                                        | Misc. 🌸                                                                                                      |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ |
