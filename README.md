@@ -4,8 +4,7 @@
 
 # Hi there - I'm Ana!
 
-## Frontend Developer && Poet
-
+<br>
 <br>
 <br>
 <br>
