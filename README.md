@@ -49,7 +49,14 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 ![](https://img.shields.io/badge/💮%20Technologies-f2808e?style=for-the-badge)
 
-<div align="center">
+<table>
+<tr>
+<td>
+
+<img align="right" src="https://media.giphy.com/media/h3uCBYjnbUEQCGZJUN/giphy.gif" width="250px">
+
+</td>
+<td>
 
 | Frontend 🌸                                                                                       | Backend 🌸                                                                                        | Misc. 🌸                                                                                                      |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ |
@@ -66,7 +73,9 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 | ![](https://img.shields.io/badge/TypeScript-FF1493?style=plastic&logo=TypeScript&logoColor=white) |                                                                                                   |                                                                                                               |
 | ![](https://img.shields.io/badge/Webpack-FF1493?style=plastic&logo=Webpackd&logoColor=white)      |                                                                                                   |
 
-</div>
+</td>
+</tr>
+</table>
 
 <hr>
 
