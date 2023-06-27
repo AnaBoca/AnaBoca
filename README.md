@@ -124,14 +124,14 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 <br>
 
 <table>
-<tr align="center" width="1500px">
-<td>
+<tr align="center" >
+<td width="1300px">
 
 ![Ana Boca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaBoca&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
 </td>
 
-<td>
+<td width="1000px">
 
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=dracula&hide=ruby,coffeescript)
 
