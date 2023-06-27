@@ -2,6 +2,7 @@
 
 <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="200px" align="left"/>
 <h1 align="left">Hi there - I'm Ana!</h1>
+<h2 align="left">Frontend Developer && Poet</h2>
 <br>
 <br>
 <br>
