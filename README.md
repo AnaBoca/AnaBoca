@@ -34,6 +34,8 @@ const ANA_BOCA = {
 </tr>
 </table>
 
+<br>
+
 ![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=f2808e)
 
 > [Jan 20, 2021 from @angular endorsing ngx-errors library](https://twitter.com/angular/status/1355259422545752076)<br>[Mar 15, 2022 from @shai_reznik for hosting testing event](https://twitter.com/shai_reznik/status/1503725360327897092)<br>[Aug 31, 2022 from @shai_reznik - girl in the front with the glasses](https://twitter.com/shai_reznik/status/1565146679883403264?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
@@ -59,6 +61,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 <img src="https://media.giphy.com/media/hoOv7dvN389k9dzFBj/giphy.gif" width="450px">
 
 </td>
+
 <td width="500px" align="center">
 
 | Frontend 🌸                                                                                       | Backend 🌸                                                                                        | Misc. 🌸                                                                                                      |
@@ -80,11 +83,15 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 </tr>
 </table>
 
+<br>
+
 ![](https://img.shields.io/badge/💮%20Stats-f2808e?style=for-the-badge)
 
 <details>
 <summary>"Click to see my stats"</summary>
+
 <br>
+
 <div align="center">
 
 ![Ana Boca's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBoca&layout=compact&theme=dracula&hide=ruby,coffeescript)
@@ -93,14 +100,16 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 
 </div>
 </details>
-<br>
+
 <br>
 
 ![](https://img.shields.io/badge/💮%20Repos-f2808e?style=for-the-badge)
 
 <details>
 <summary>"Click to see my repos"</summary>
+
 <br>
+
 <div align="center">
 
 [![hivehapp](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=hivehapp&theme=synthwave)](https://github.com/AnaBoca/hivehapp)
@@ -122,5 +131,4 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 [![scc-midterm-cssgrid](https://github-readme-stats.vercel.app/api/pin/?username=AnaBoca&repo=scc-midterm-cssgrid&theme=omni)](https://github.com/AnaBoca/scc-midterm-cssgrid)
 
 </div>
-
 </details>
