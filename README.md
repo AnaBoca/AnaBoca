@@ -6,12 +6,6 @@
 
 ## Frontend Developer && Poet
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <hr>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
