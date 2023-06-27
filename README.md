@@ -7,10 +7,6 @@
 <br>
 <br>
 
-<hr>
-
-<div height="2000px">
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
 
 <table>
@@ -38,15 +34,9 @@ const ANA_BOCA = {
 </tr>
 </table>
 
-</div>
-
-<hr>
-
 ![Fancy Twitter Mentions](https://img.shields.io/badge/Fancy%20Twitter%20Mentions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=f2808e)
 
 > [Jan 20, 2021 from @angular endorsing ngx-errors library](https://twitter.com/angular/status/1355259422545752076)<br>[Mar 15, 2022 from @shai_reznik for hosting testing event](https://twitter.com/shai_reznik/status/1503725360327897092)<br>[Aug 31, 2022 from @shai_reznik - girl in the front with the glasses](https://twitter.com/shai_reznik/status/1565146679883403264?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
-
-<hr>
 
 ![](https://img.shields.io/badge/💮%20Exposition-f2808e?style=for-the-badge)
 
@@ -55,8 +45,6 @@ In my professional past life, I was a writing teacher at the university level wh
 I obtained my Associate in Applied Science in Web Development with Highest Distinction (earning a 4.0 GPA) in 2019 and graduated from The University of Arizona with a Technical Certificate in Full-Stack Web Development in 2020. My most recent experience was as a software engineer at Universal Plant Services (UPS) for nearly two years. During my time at UPS, I grew immensely. I worked on bug fixes, feature development, was the first in the company to write both end-to-end (e2e) and unit tests in the company, and created and maintained the most amount of wikis at over a 100 that pertained from deployment standards to business requirements.
 
 In the meantime, I have been practicing my javascript skills and am looking to become more and more competent in the frontend. I am currently working on a personal project called [hivehapp](https://github.com/AnaBoca/hivehapp) using Nx, Angular, and Angular Material. I am a home organization hobbyist and am happy to be utilizing my skills to create a home management app. So far, I have contributed to open source by way of editing technical documentation for my husband’s [ngx-errors library](https://github.com/ngspot/ngx-errors) ([which was endorsed by the Angular team on Twitter](https://twitter.com/angular/status/1355259422545752076)).
-
-<hr>
 
 ![](https://img.shields.io/badge/💮%20Technologies-f2808e?style=for-the-badge)
 
@@ -88,7 +76,9 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 </tr>
 </table>
 
-<hr>
+<table>
+<tr>
+<td>
 
 ![](https://img.shields.io/badge/💮%20Stats-f2808e?style=for-the-badge)
 
@@ -104,7 +94,9 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 </div>
 </details>
 
-<hr>
+</td>
+
+<td>
 
 ![](https://img.shields.io/badge/💮%20Repos-f2808e?style=for-the-badge)
 
@@ -134,3 +126,7 @@ In the meantime, I have been practicing my javascript skills and am looking to b
 </div>
 
 </details>
+
+</td>
+</tr>
+</table>
