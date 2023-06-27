@@ -1,9 +1,10 @@
 <!-- <img src="/header.svg"> -->
 
-<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="100px" /> 
-<span>
-<h1>Hi there - I'm Ana!</h1>
-</span>
+<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" alt="moving cherry blossom" width="100px" align="left"/>
+<h1 align="right">Hi there - I'm Ana!</h1>
+<br>
+<br>
+<hr>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f2808e)](https://www.linkedin.com/in/anaboca/)
 
